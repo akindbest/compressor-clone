@@ -133,9 +133,7 @@ main {
 .com-btn {
   display: flex;
   justify-self: end;
-  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
-  padding: 1rem;
-  border-radius: 8px 8px 0 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   /* padding: 5px auto; */
   /* float: right; */
   /* font-size: 9.5px; */
